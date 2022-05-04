@@ -37,6 +37,7 @@ Use following config and adjust it according to your needs:
         username: <YOUR_USERNAME_TO_CONFLUENCE>
         password: <YOUR_PASSWORD_TO_CONFLUENCE>
         enabled_if_env: MKDOCS_TO_CONFLUENCE
+        #cloud: true  # When authenticating with Confluence Cloud
         #verbose: true
         #debug: true
         dryrun: true
